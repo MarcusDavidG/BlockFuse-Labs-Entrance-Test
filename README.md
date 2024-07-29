@@ -1,4 +1,4 @@
-Task Manager SPA
+Task Manager SPA:
 This is a simple task management tool built with Vite, React, and TailwindCSS. The application allows users to create, update, delete, and list tasks with state persistence using local storage.
 
 Features:
