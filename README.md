@@ -9,7 +9,7 @@ List all tasks.
 State persistence with local storage.
 
 Usage:
-Open your browser and navigate to 
+Open your browser and navigate to : https://marcusdavidg.github.io/BlockFuse-Labs-Entrance-Test/
 Use the application to manage your tasks.
 
 Components
